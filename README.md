@@ -10,9 +10,10 @@ realizado um webscraping, de modelos de smartphones dos últimos 3 anos.
  Basicamente, a ideia é fornecer três tipos diferentes de vizualização:
 1) Trends em WordCloud relativo a todos os tweets armazenados até o momento; 
 2) Gráfico de popularidade das 20 empresas mais populares; e
+
 3)Modelos de smartphones mais comentados.
 
 Assim, desejo fornecer ferramentas que auxiliem profissionais do varejo na tomada de decisões que impulsionem vendas. Como, por exemplo, na decisão de quais produtos comprar,
-de campanhas de promoção, e em saber quais produtos mantêm-se populares, além das tendências.
+de campanhas de promoção, e em saber quais produtos mantêm-se populares, além das tendências no geral.
 
  
