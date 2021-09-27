@@ -16,5 +16,4 @@ Assim, desejo fornecer ferramentas que auxiliem profissionais do varejo na tomad
 de campanhas de promoção, e em saber quais produtos mantêm-se populares, além das tendências no geral.
 
  
-Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, os arquivos do projeto, criados até o dia 26/09/2021, continuam no repositório, enquanto
-     updates do projeto estão no branch 'Updates'.
+Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, não pude coletar muitos dados até a data de entrega do projeto. Os arquivos do projeto, continuam no repositório, enquanto updates do projeto estão no branch 'Updates'.
