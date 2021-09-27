@@ -227,10 +227,11 @@ def analisa_sentimento(tweet):
 
 """## 3 - Consumindo a API do Twitter e análise de sentimento
 
-   O banco de dados escolhido foi o Neo4j, baseado em grafos, que nos será muito útil, pois foi criado especificamente 
-para armazenar e processar relacionamentos entre dados. Antes de consumir a API, armazeno os produtos em que temos interesse.
-Esse projeto sofreu diversas modificações em sua própria finalidade, durante seu desenvolvimento. As limitações para usuários padrão do Twitter inpôs desafios constantes, que sempre foram resolvidos com o intuito de manter o objetivo inicial básico: criar uma ferramenta que auxílie tomadas de decisões no varejo de smartphones.
-Ao fim, também é mostrado uma WordCloud com as 100 palavras mais usadas no último dia.
+   O banco de dados escolhido foi o Neo4j, baseado em grafos, que nos será muito útil, pois foi criado especificamente para armazenar e processar relacionamentos entre dados. Antes de consumir a API, armazeno os produtos em que temos interesse. Esse projeto sofreu diversas modificações em sua própria finalidade, durante seu desenvolvimento. As limitações para usuários padrão do Twitter inpôs desafios constantes, que sempre foram resolvidos com o intuito de manter o objetivo inicial básico: criar uma ferramenta que auxílie tomadas de decisões no varejo de smartphones. Ao fim, também é mostrado uma WordCloud com as 100 palavras mais usadas no último dia. Devido ao limite de tweets que posso requisitar, pesquisas de tweets entre os dias 14 e 21 foram feitas previamente, para alimentar o banco do de dados. Para isso, foi utilizado um simples loop no código abaixo.
+
+   Testando a api do twitter, foi observada uma quantidade consideravel de repetições nos tweets requisitados, o que acontece com menos frequência ao solicitar em intervalos de tempos sucessivos. Claro, mesmo com toda essas restrições no nosso universo de pesquisa, ainda obtemos tweets irrelevantes para nossa análise.
+
+   Apesar de não ser necessário para o meu objetivo primário, também armazeno os tweets pesquisados, pois compartilho o conteúdo do banco, de forma que a qualidade do meu filtro de dados possa ser avaliada. Também, possibilita um suporte para outros projetos.
 """
 
 # Commented out IPython magic to ensure Python compatibility.
@@ -240,16 +241,6 @@ Ao fim, também é mostrado uma WordCloud com as 100 palavras mais usadas no úl
 # cont_twr = 0 #contador de tweets repetidos
 # cont_rel = 0 #contador de relações
 # tweets_do_dia = "" #onde tweets do dia são armazenados para visualização das trends do dia
-# 
-# ''' **********Devido ao limite de tweets que posso requisitar, pesquisas de tweets entre os dias 14 e 21 foram feitas previamente,
-# #para alimentar o banco do de dados. Para isso, foi utilizado um simples loop no código abaixo.
-# #Testando a api do twitter, foi observada uma quantidade consideravel de repetições nos tweets requisitados, o que acontece com
-# #menos frequência ao solicitar em intervalos de tempos sucessivos.************ '''
-# #Claro, mesmo com toda essas restrições no nosso universo de pesquisa, ainda obtemos tweets irrelevantes para nossa análise.
-# 
-# # Apesar de não ser necessário para o meu objetivo primário, também armazeno os tweets pesquisados, pois compartilho o
-# #conteúdo do banco, de forma que a qualidade do meu filtro de dados possa ser avaliada. Também, possibilita um suporte para 
-# #outros projetos.
 # 
 # 
 # #Parâmetros da pesquisa:
