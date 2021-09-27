@@ -2,7 +2,7 @@
 
   Esse projeto foi desenvolvido com o intuito de participar do Data Challenge, promovido pelo Banco Carrefour e pela Digital Inovation One, com entrega até 26 de setembro de 2021. 
 Para este desafio, deve-se criar uma aplicação para monitorar as top trendings do Twitter e seu devido volume. Pelo caráter personalizado dos assuntos mais discutidos na rede 
-social, disponibilizados aos seus usuários pela própria plataforma, foi tomada a liberdade de filtro dos top trendings sobre smartphones e suas fabricantes.
+social, disponibilizados aos seus usuários pela própria plataforma, foi tomada a liberdade de filtro dos top trendings sobre smartphones e seus fabricantes.
 
    Antes de tudo, foi realizado um webscraping, de modelos de smartphones dos últimos 3 anos. O projeto foi feito primariamente em python, consumindo a API do Twitter e armazenando os dados relevantes em um banco de dado do tipo grafos, o neo4j. Onde os gráficos de visualização desses dados foram criados no próprio script. O código foi desenvolvido para consulta diaria, sendo estruturado de forma a pesquisar tweets das últimas 24h.
 
