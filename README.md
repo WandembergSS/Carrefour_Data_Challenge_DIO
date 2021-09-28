@@ -18,10 +18,32 @@ de campanhas de promoção, e em saber quais produtos mantêm-se populares, alé
 Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, não pude coletar muitos dados até a data de entrega do projeto. Os arquivos do projeto, continuam no repositório, enquanto updates do projeto estão no branch 'Updates'.
 
 
+
+
+
 Resultados:
   Os resultados que apresento a seguir, são da versão mais atualizada do projeto, disponível no branch 'Updates'.
   
-  Com os contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com o modelo de smartphone Galaxy S20 sendo o mais comentado, além
-  dominar com outros modelos, nossa tabela de modelos citados:
+  De um total de 2015 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com o modelo de smartphone Galaxy S20 sendo o mais comentado, além dominar com outros modelos, deixando nossa tabela de modelos citados:
   
   ![image](https://user-images.githubusercontent.com/86700373/135035691-388d82d2-a4dd-44bb-9811-1f5100d95ed9.png)
+
+Onde os modelos Motorola Edge e Redmi 9A também aparecem. Essa lista deve aumentar junto com o banco de dados, mas já deve-se notar um problema com nossas buscas. Os ID's dos contextos utilizados não foram encontrados para todas as empresas resultantes do web scraping, deixando nossa pesquisa tendênciosa, apesar de ter utilizado outros parâmetros. 
+
+  Ainda sobre a popularidade, obtemos resultados não surpreendentes, mas consistentes, à exceção da Lenovo e Positivo. A Samsung é seguida por essas duas empresas, onde a Lenovo, provavelmente, deve sua popularidade aos seus notebooks, e acredito que houve um erro na análise de sentimento referente a Positivo. Em seguida, como esperado, temos a Apple, Motorola e Xiomi. Além de percebemos que uma competição acirrada com empresas que cresceram muito no mercado brasileiro, como podemos ver no gráfico:
+  
+  ![image](https://user-images.githubusercontent.com/86700373/135038290-8846f0a5-ecc8-4b8e-ac8c-7609eed67f34.png)
+
+Com a TCL e Wiko recebendo uma avaliação negativa.
+  E por último, do WordCloud criado com os textos de todos os tweets pesquisados, são confirmadas todas as observações feitas até aqui. Além de podermos ver a menção de outros modelos de smartphone, que não são os que aparecem no primeiro gráfico. Além disso, notamos várias palavras relacionadas a notebooks, o que é esperado, pois muitas das empresas que vimos também fabricam esse produto. Mas deve ser notado que não pesquisamos especificamente por esse produto, nos sinalizando que o mercado de notebooks está tão em alta como o de smartphones. Também podemos notar que muitas das palavras estão ligadas a propaganda, indicando que o Twitter é muito utilizada para isso:
+  
+  ![image](https://user-images.githubusercontent.com/86700373/135039573-f569202c-1661-42ec-85e3-9cb9032dc7fd.png)
+  
+  Sobre o que pode ser melhorado, diria que os seguintes aspectos potencializariam enormemente os resultados desse projeto:
+  1) Uma conta de desenvolvedor com mais recursos;
+  2) Uma ferramenta melhor do que a que criei para a busca dos modelos (IA??);
+  3) Uma utilização mais integrada com o banco de dados (Percebi que os recursos disponibilizados pelo Neo4j são vastos, e pretendo me aprimorar, enquanto continuo a desenvolver esse projeto, e em outros.)
+ 
+  Por fim, dou uma autoavalição positiva para o projeto que desenvolvi. Primeiro grande projeto que fiz, comparado com os outros publicados por mim no GitHub. Claro, não é um software pronto para ser utilizado por varejistas, mas sim um instrumento de aprendizagem muito rico, pois aqui pude desenvolver muitas coisas aprendidas no bootcamp Carrefour Data Enginer, e conhecer novas ferramentas. Por isso, agradeço imensamente as empresas envolvidas, Digital Inovation One e Grupo Carrefour, por ter icentivado essa experiência.
+  
+Obrigado!!
