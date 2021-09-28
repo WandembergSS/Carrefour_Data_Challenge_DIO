@@ -16,3 +16,12 @@ de campanhas de promoção, e em saber quais produtos mantêm-se populares, alé
 
  
 Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, não pude coletar muitos dados até a data de entrega do projeto. Os arquivos do projeto, continuam no repositório, enquanto updates do projeto estão no branch 'Updates'.
+
+
+Resultados:
+  Os resultados que apresento a seguir, são da versão mais atualizada do projeto, disponível no branch 'Updates'.
+  
+  Com os contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com o modelo de smartphone Galaxy S20 sendo o mais comentado, além
+  dominar com outros modelos, nossa tabela de modelos citados:
+  
+  ![image](https://user-images.githubusercontent.com/86700373/135035691-388d82d2-a4dd-44bb-9811-1f5100d95ed9.png)
