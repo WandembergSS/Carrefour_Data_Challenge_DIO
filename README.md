@@ -26,7 +26,7 @@ Os resultados que apresento a seguir, são da versão mais atualizada do projeto
   
   De um total de 2015 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com o modelo de smartphone Galaxy S20 sendo o mais comentado, além dominar com outros modelos, deixando nossa tabela de modelos citados:
   
-  ![image](https://user-images.githubusercontent.com/86700373/135035691-388d82d2-a4dd-44bb-9811-1f5100d95ed9.png)
+ ![image](https://user-images.githubusercontent.com/86700373/135266796-bc4f1a4d-a161-497e-8e48-c68812a70c46.png)
 
 Onde os modelos Motorola Edge e Redmi 9A também aparecem. Essa lista deve aumentar junto com o banco de dados, mas já deve-se notar um problema com nossas buscas. Os ID's dos contextos utilizados não foram encontrados para todas as empresas resultantes do web scraping, deixando nossa pesquisa tendênciosa, apesar de ter utilizado outros parâmetros. 
 
