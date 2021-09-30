@@ -5,3 +5,4 @@ Alterações no código:
 3) Corrigido o erro onde os trends do dia não são mostrados, quando a operação é repetida.
 4) Adicionado novas palavras para a lista stopwords.
 5) Troca de eixos do gráfico de barras dos modelos.
+6) Criação do dataframe de popularidade alterado. Agora está levando em consideração todos os tweets.
