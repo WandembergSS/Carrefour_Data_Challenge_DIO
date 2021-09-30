@@ -11,7 +11,7 @@ social, disponibilizados aos seus usuários pela própria plataforma, foi tomada
 2) Gráfico de popularidade das empresas.
 3) Modelos de smartphones mais comentados.
 
-Assim, desejo fornecer ferramentas que auxiliem profissionais do varejo na tomada de decisões que impulsionem vendas. Como, por exemplo, na decisão de quais produtos comprar,
+ Onde a análise de popularidade de cada empresa foi esimada a partir da soma dos índices de popularidade de cada tweet relacionado, indo de -1 à 1. Assim, deve crescer com a frequência de citações, bem como com os próprios resultados das análises de sentimento. desejo fornecer ferramentas que auxiliem profissionais do varejo na tomada de decisões que impulsionem vendas. Como, por exemplo, na decisão de quais produtos comprar,
 de campanhas de promoção, e em saber quais produtos mantêm-se populares, além das tendências no geral.
 
  
