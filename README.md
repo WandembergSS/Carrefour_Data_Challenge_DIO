@@ -6,3 +6,4 @@ Alterações no código:
 4) Adicionado novas palavras para a lista stopwords.
 5) Troca de eixos do gráfico de barras dos modelos.
 6) Criação do dataframe de popularidade alterado. Agora está levando em consideração todos os tweets.
+7) Importações de ibliotecas desnecessárias foram apagadas.
