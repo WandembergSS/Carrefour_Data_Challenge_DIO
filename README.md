@@ -25,20 +25,23 @@ Os resultados que apresento a seguir, são da versão mais atualizada do projeto
   
   De um total de 2663 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com os modelos de smartphone Galaxy S20 e A32 sendo os mais comentados, além dominar com outros modelos, deixando nossa tabela de modelos citados:
   
-![image](https://user-images.githubusercontent.com/86700373/135449626-d8a8a7b3-e58d-49e3-99e6-4739caef88d7.png)
+  ![image](https://user-images.githubusercontent.com/86700373/135611906-b5d35adc-9765-4640-b2f0-e4779899802e.png)
+
 
 
 Onde os modelos Motorola Edge, Redmi 9A, e Realme 8, também aparecem. Essa lista deve aumentar junto com o banco de dados, mas já deve-se notar um problema com nossas buscas. Os ID's dos contextos utilizados não foram encontrados para todas as empresas resultantes do web scraping, deixando nossa pesquisa tendênciosa, apesar de ter utilizado outros parâmetros. 
 
   Ainda sobre a popularidade, obtemos resultados não surpreendentes, à exceção da Lenovo e Positivo. A Samsung é seguida por essas duas empresas, onde a Lenovo, provavelmente, deve sua popularidade aos seus notebooks, e acredito que houve um erro na análise de sentimento referente a Positivo. Em seguida, como esperado, temos a Apple, Motorola e Xiomi. Além de percebemos que uma competição acirrada com empresas que cresceram muito no mercado brasileiro, como podemos ver no gráfico:
   
- ![image](https://user-images.githubusercontent.com/86700373/135449698-8239e6a5-61fd-41d6-b2bc-d39521d35bea.png)
+![image](https://user-images.githubusercontent.com/86700373/135611969-ec09e785-0915-4a6f-90a0-79237eea19dc.png)
+
 
 
 Com a Wiko recebendo avaliação negativa.
   E por último, do WordCloud criado com os textos de todos os tweets pesquisados, são confirmadas todas as observações feitas até aqui. Além de podermos ver a menção de outros modelos de smartphone, que não são os que aparecem no primeiro gráfico. Além disso, notamos várias palavras relacionadas a notebooks, o que é esperado, pois muitas das empresas que vimos também fabricam esse produto. Mas deve ser notado que não pesquisamos especificamente por esse produto, nos sinalizando que o mercado de notebooks está tão em alta como o de smartphones. Também podemos notar que muitas das palavras estão ligadas a propaganda, indicando que o Twitter é muito utilizada para isso:
   
-  ![image](https://user-images.githubusercontent.com/86700373/135449755-5edd867e-9be4-453b-bdc2-1940d23a04f8.png)
+ ![image](https://user-images.githubusercontent.com/86700373/135612019-461c720a-6df5-4c1c-bdb8-c37811a35da1.png)
+
 
   
   Sobre o que pode ser melhorado, diria que os seguintes aspectos potencializariam enormemente os resultados desse projeto:
