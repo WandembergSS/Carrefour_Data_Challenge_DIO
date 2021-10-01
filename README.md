@@ -28,7 +28,7 @@ Os resultados que apresento a seguir, são da versão mais atualizada do projeto
 ![image](https://user-images.githubusercontent.com/86700373/135449626-d8a8a7b3-e58d-49e3-99e6-4739caef88d7.png)
 
 
-Onde os modelos Motorola Edge e Redmi 9A também aparecem. Essa lista deve aumentar junto com o banco de dados, mas já deve-se notar um problema com nossas buscas. Os ID's dos contextos utilizados não foram encontrados para todas as empresas resultantes do web scraping, deixando nossa pesquisa tendênciosa, apesar de ter utilizado outros parâmetros. 
+Onde os modelos Motorola Edge, Redmi 9A, e Realme 8, também aparecem. Essa lista deve aumentar junto com o banco de dados, mas já deve-se notar um problema com nossas buscas. Os ID's dos contextos utilizados não foram encontrados para todas as empresas resultantes do web scraping, deixando nossa pesquisa tendênciosa, apesar de ter utilizado outros parâmetros. 
 
   Ainda sobre a popularidade, obtemos resultados não surpreendentes, à exceção da Lenovo e Positivo. A Samsung é seguida por essas duas empresas, onde a Lenovo, provavelmente, deve sua popularidade aos seus notebooks, e acredito que houve um erro na análise de sentimento referente a Positivo. Em seguida, como esperado, temos a Apple, Motorola e Xiomi. Além de percebemos que uma competição acirrada com empresas que cresceram muito no mercado brasileiro, como podemos ver no gráfico:
   
