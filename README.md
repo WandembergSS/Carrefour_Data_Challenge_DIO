@@ -23,7 +23,7 @@ Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, nã
 ## Resultados:
 Os resultados que apresento a seguir, são da versão mais atualizada do projeto, disponível no branch 'Updates'.
   
-  De um total de 2015 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com os modelos de smartphone Galaxy S20 e A32 sendo os mais comentados, além dominar com outros modelos, deixando nossa tabela de modelos citados:
+  De um total de 2663 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com os modelos de smartphone Galaxy S20 e A32 sendo os mais comentados, além dominar com outros modelos, deixando nossa tabela de modelos citados:
   
 ![image](https://user-images.githubusercontent.com/86700373/135449626-d8a8a7b3-e58d-49e3-99e6-4739caef88d7.png)
 
