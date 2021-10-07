@@ -1,5 +1,3 @@
-******* Resolvido o problema de contagem das citações de modelos nos tweets(Branch 'Updates').********
-
   Esse projeto foi desenvolvido com o intuito de participar do Data Challenge, promovido pelo Banco Carrefour e pela Digital Inovation One, com entrega até 26 de setembro de 2021. 
 Para este desafio, deve-se criar uma aplicação para monitorar as top trendings do Twitter e seu devido volume. Pelo caráter personalizado dos assuntos mais discutidos na rede 
 social, disponibilizados aos seus usuários pela própria plataforma, foi tomada a liberdade de filtro dos top trendings sobre smartphones e seus fabricantes.
@@ -21,7 +19,6 @@ Obs: Devido a taxa limitada de solicitações de pesquisa no API do Twitter, nã
 
 
 ## Resultados:
-Os resultados que apresento a seguir, são da versão mais atualizada do projeto, disponível no branch 'Updates'.
   
   De um total de 2876 tweets pesquisados, resultantes dos contextos e querys de pesquisa utilizados, foi descoberto que a Samsung possui popularidade disparada, com os modelos de smartphone Galaxy S20 e A32 sendo os mais comentados, além dominar com outros modelos, deixando nossa tabela de modelos citados:
   
