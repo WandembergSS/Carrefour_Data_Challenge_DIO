@@ -1,5 +1,3 @@
-# Carrefour_Data_Challenge_DIO
-
 ******* Resolvido o problema de contagem das citações de modelos nos tweets(Branch 'Updates').********
 
   Esse projeto foi desenvolvido com o intuito de participar do Data Challenge, promovido pelo Banco Carrefour e pela Digital Inovation One, com entrega até 26 de setembro de 2021. 
