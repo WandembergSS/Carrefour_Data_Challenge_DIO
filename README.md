@@ -47,6 +47,4 @@ Com a Wiko recebendo avaliação negativa.
   2) Uma ferramenta melhor do que a que criei para a busca dos modelos (IA??);
   3) Uma utilização mais integrada com o banco de dados, pois percebi que os recursos disponibilizados pelo Neo4j são vastos, pretendendo me aprimorar, enquanto continuo a desenvolver esse projeto, e em outros.
  
-  Por fim, dou uma autoavalição positiva para o projeto que desenvolvi. Primeiro grande projeto que fiz, comparado com os outros publicados por mim no GitHub. Claro, não é um software pronto para ser utilizado por varejistas, mas sim um instrumento de aprendizagem muito rico, pois aqui pude desenvolver muitas coisas aprendidas no bootcamp Carrefour Data Enginer, e conhecer novas ferramentas. Por isso, agradeço imensamente as empresas envolvidas, Digital Inovation One e Grupo Carrefour, por ter icentivado essa experiência.
   
-Obrigado!!
